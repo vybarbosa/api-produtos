@@ -1,4 +1,4 @@
-#  CRUD API em Node.js com MySQL
+#  CRUD API com GraphQL e MySQL
 
 Esta é uma API simples que implementa operações CRUD (Create, Read, Update, Delete) para entidades de produto usando GraphQL, Node.js e MySQL.
 
